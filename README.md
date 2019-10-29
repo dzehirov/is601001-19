@@ -1,2 +1,3 @@
-# is601001-19
-Daniel Zehirov
+# is601851-19
+## Daniel Zehirov
+Python Homework 1
